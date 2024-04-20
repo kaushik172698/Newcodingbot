@@ -1,2 +1,4 @@
+
 # Newcodingbot
-new repo
+new repo      
+I 've devlope website
